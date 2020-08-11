@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Benchmark.fs" />
+    <Compile Include="Utils.fs" />
+    <Compile Include="Euler001.fs" />
+    <Compile Include="Euler002.fs" />
+    <Compile Include="Euler003.fs" />
+    <Compile Include="Euler004.fs" />
+    <Compile Include="Euler005.fs" />
+    <Compile Include="Euler006.fs" />
+    <Compile Include="Euler007.fs" />
+    <Compile Include="Euler008.fs" />
+    <Compile Include="Euler009.fs" />
+    <Compile Include="Euler010.fs" />
+    <Compile Include="Euler011.fs" />
+    <Compile Include="Euler012.fs" />
+  </ItemGroup>
+
+</Project>
